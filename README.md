@@ -12,7 +12,7 @@ Welcome to my Hotel Advisor Figma Designs! This site showcases my skills, projec
 
 ## 🎨 Figma Design
 
-📐 Check out the design on Figma: [Figma Design Link](https://www.figma.com/file/your-design-id/Your-Design-Name?type=design&mode=design)
+📐 Check out the design on Figma: [Figma Design Link](https://www.figma.com/design/rbVJo0URI3bGzx1HVhg0b3/L5CG2_AnmolBajracharya_2228044?node-id=356-3304&t=ihUgXou50tqCDsJi-1)
 
 ---
 
