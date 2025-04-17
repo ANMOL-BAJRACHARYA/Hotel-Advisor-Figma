@@ -1,4 +1,4 @@
-# 💼 Developer Portfolio Website
+# 💼 Developer Portfolio Figma Designs
 
 Welcome to my Hotel Advisor Figma Designs! This site showcases my skills, projects, and experience as a developer.
 
